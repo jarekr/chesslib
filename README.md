@@ -1,7 +1,7 @@
 Simple Java Chess Library
 =========================
 
-[![](https://jitpack.io/v/bhlangonijr/chesslib.svg)](https://jitpack.io/#bhlangonijr/chesslib) ![mvn build](https://github.com/bhlangonijr/chesslib/actions/workflows/maven.yml/badge.svg)
+[![](https://jitpack.io/v/bhlangonijr/chesslib.svg)](https://jitpack.io/#bhlangonijr/chesslib) ![mvn build](https://github.com/bhlangonijr/chesslib/actions/workflows/maven.yml/badge.svg) ![Coverage](.github/badges/jacoco.svg)
 
 
 Chesslib is a simple java chess library for generating
